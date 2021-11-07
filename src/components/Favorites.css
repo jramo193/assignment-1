@@ -1,0 +1,15 @@
+.favorites-header {
+  margin-bottom: 20px;
+}
+
+.favorites-table {
+  table-layout: fixed;
+}
+
+.table-favetitle-header {
+  width: 50%;
+}
+
+.table-faveyear-header {
+  width: 10%;
+}

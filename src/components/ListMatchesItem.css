@@ -1,0 +1,80 @@
+.list-item {
+  padding-bottom: 5px;
+  padding-left: 5px;
+
+}
+
+.list-item-date {
+  padding-bottom: 5px;
+  padding-left: 5px;
+  text-align: center;
+  padding-right: 5px;
+}
+
+.list-item-heart {
+  padding-bottom: 5px;
+  padding-left: 5px;
+  position: relative;
+  padding: 5px;
+  background-color: #555555;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  border: 2px solid #555555;
+}
+
+.list-item-view {
+  padding-bottom: 5px;
+  padding-left: 5px;
+  position: relative;
+  padding: 5px;
+  background-color: #555555;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  border: 2px solid #555555;
+}
+
+.list-item-heart:hover {
+  background-color: white;
+  color: #555555;
+  border: 2px solid #555555;
+}
+
+.list-item-view:hover {
+  background-color: white;
+  color: #555555;
+  border: 2px solid #555555;
+}
+
+
+.synopsis-favorite {
+  position: relative;
+  padding: 5px;
+  background-color: #555555;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  border: 2px solid #555555;
+}
+
+.synopsis-close:hover  {
+  background-color: white; /* Green */
+  color: #555555;
+  border: 2px solid #555555;
+}

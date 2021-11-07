@@ -1,0 +1,37 @@
+.favorite-item {
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
+
+.favorite-item-title {
+  padding-bottom: 5px;
+  padding-left: 5px;
+  width: 90%;
+
+}
+
+
+.favorite-item-delete {
+  position: relative;
+  padding: 5px;
+  background-color: #555555;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  border: 2px solid #555555;
+}
+
+.favorite-item-delete:hover {
+  background-color: white;
+  color: #555555;
+  border: 2px solid #555555;
+}
+
+.delete {
+  float: right;
+}

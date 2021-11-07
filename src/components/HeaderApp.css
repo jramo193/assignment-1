@@ -1,0 +1,60 @@
+.headerapp-com {
+  position: absolute;
+}
+
+.logo {
+  position: relative;
+  width: 125px;
+  height: 75px;
+  top: 9px;
+  left: 20px;
+  float: left;
+}
+
+.about {
+  position: relative;
+  float: left;
+  width: 75px;
+  height: 30px;
+  top: 33px;
+  left: 1050px;
+  background-color: #555555;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  border: 2px solid #555555;
+}
+
+.close {
+  position: relative;
+  width: 75px;
+  height: 30px;
+  left: 45%;
+  background-color: #555555;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  border: 2px solid #555555;
+}
+
+.about:hover {
+  background-color: white; /* Green */
+  color: #555555;
+  border: 2px solid #555555;
+}
+
+.close:hover {
+  background-color: white; /* Green */
+  color: #555555;
+  border: 2px solid #555555;
+}

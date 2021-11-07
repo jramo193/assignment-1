@@ -1,0 +1,151 @@
+.playfilters-header {
+  margin-bottom: 20px;
+}
+
+.titleform {
+  margin-bottom: 20px;
+}
+
+.yearform {
+  margin-bottom: 30px;
+}
+
+
+.genreform {
+  margin-bottom: 20px;
+}
+
+.filterbuttons {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.before{
+  margin-top: 5px;
+}
+
+.after {
+  margin-top: 5px;
+}
+
+.title-texts {
+  width: 100%;
+  height: 30px;
+}
+
+.before-text {
+  width: 100%;
+  height: 30px;
+}
+
+.after-text {
+  width: 100%;
+  height: 30px;
+}
+
+.genre-dropdown {
+  width: 100%;
+  height: 30px;
+}
+
+.filter-label {
+  font-weight: bold;
+}
+
+.synopsis-title {
+  margin-bottom: 15px;
+}
+
+.synopsis-details {
+
+}
+
+.synopsis-close {
+  position: relative;
+  padding: 5px;
+  margin-right: 25px;
+  background-color: #555555;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  border: 2px solid #555555;
+}
+
+.synopsis-favorite {
+  position: relative;
+  padding: 5px;
+  background-color: #555555;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  border: 2px solid #555555;
+}
+
+.synopsis-close:hover  {
+  background-color: white;
+  color: #555555;
+  border: 2px solid #555555;
+}
+
+.synopsis-favorite:hover  {
+  background-color: white;
+  color: #555555;
+  border: 2px solid #555555;
+}
+
+
+
+.filterbuttons-filter {
+  position: relative;
+  padding: 5px;
+  margin-right: 25px;
+  background-color: #555555;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  border: 2px solid #555555;
+}
+
+.filterbuttons-clear {
+  position: relative;
+  padding: 5px;
+  background-color: #555555;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  border: 2px solid #555555;
+}
+
+.filterbuttons-filter:hover {
+  background-color: white; /* Green */
+  color: #555555;
+  border: 2px solid #555555;
+}
+
+.filterbuttons-clear:hover {
+  background-color: white; /* Green */
+  color: #555555;
+  border: 2px solid #555555;
+}

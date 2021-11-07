@@ -1,0 +1,33 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1510511450816-30c68106b199?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80);
+  background-size: cover;
+  align: center;
+}
+div {
+  font-family: "century schoolbook";
+
+}
+
+.imagecredits {
+  position:absolute;
+  bottom:0;
+  right:0;
+  color: white;
+}
+
+.loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.fade-appear {
+  opacity: 0;
+  z-index: 1;
+}
+
+.fade-appear.fade-appear-active {
+  opacity: 1;
+  transition: opacity 500ms linear;
+}

@@ -1,0 +1,74 @@
+.home{
+  background-color: #a1a6ad;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 59px;
+  padding: 150px;
+  border-style: solid;
+  border-color: black;
+}
+
+.home-title {
+  font-size: 60px;
+}
+
+.title-text {
+  font-size: 30px;
+}
+
+.title-field {
+  position: relative;
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.match-button {
+    position: relative;
+    background-color: #555555;
+    left: 10%;
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+    border: 2px solid #555555;
+}
+
+.all-button {
+  position: relative;
+  background-color: #555555;
+  left: 20%;
+  border: none;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  border: 2px solid #555555;
+}
+
+.match-button:hover {
+  background-color: white;
+  color: #555555;
+  border: 2px solid #555555;
+}
+
+.all-button:hover {
+  background-color: white;
+  color: #555555;
+  border: 2px solid #555555;
+}
