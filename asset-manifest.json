@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/assignment-1/static/css/main.4ed65c7c.chunk.css",
+    "main.js": "/assignment-1/static/js/main.081cdfd2.chunk.js",
+    "main.js.map": "/assignment-1/static/js/main.081cdfd2.chunk.js.map",
+    "runtime-main.js": "/assignment-1/static/js/runtime-main.a7c393b1.js",
+    "runtime-main.js.map": "/assignment-1/static/js/runtime-main.a7c393b1.js.map",
+    "static/js/2.c3517367.chunk.js": "/assignment-1/static/js/2.c3517367.chunk.js",
+    "static/js/2.c3517367.chunk.js.map": "/assignment-1/static/js/2.c3517367.chunk.js.map",
+    "static/js/3.4de861ed.chunk.js": "/assignment-1/static/js/3.4de861ed.chunk.js",
+    "static/js/3.4de861ed.chunk.js.map": "/assignment-1/static/js/3.4de861ed.chunk.js.map",
+    "index.html": "/assignment-1/index.html",
+    "static/css/main.4ed65c7c.chunk.css.map": "/assignment-1/static/css/main.4ed65c7c.chunk.css.map",
+    "static/js/2.c3517367.chunk.js.LICENSE.txt": "/assignment-1/static/js/2.c3517367.chunk.js.LICENSE.txt",
+    "static/media/pngwing.bb400cab.png": "/assignment-1/static/media/pngwing.bb400cab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7c393b1.js",
+    "static/js/2.c3517367.chunk.js",
+    "static/css/main.4ed65c7c.chunk.css",
+    "static/js/main.081cdfd2.chunk.js"
+  ]
+}
